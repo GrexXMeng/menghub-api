@@ -1,0 +1,7 @@
+{
+  "name": "menghub-api",
+  "version": "1.0.0",
+  "main": "server_finder_backend.js",
+  "scripts": { "start": "node server_finder_backend.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
