@@ -377,7 +377,7 @@
   },
   {
     "name": "Pink Smith Damsel",
-    "image": "https://t3.rbxcdn.com/180DAY-a3dd54a897e452a2c6ea835194882df6"
+    "image": "https://tr.rbxcdn.com/180DAY-1250324bd4279d6fddf366f55779353c/420/420/Image/Png/noFilter"
   },
   {
     "name": "Axolotl",
@@ -685,7 +685,7 @@
   },
   {
     "name": "Ruby",
-    "image": "https://tr.rbxcdn.com/180DAY-91dd82d150765096695084e981e85d6f/420/420/Image/Png/noFilter"
+    "image": "https://tr.rbxcdn.com/180DAY-f93288d64d3e149744809f33dc5dcae5/420/420/Image/Png/noFilter"
   },
   {
     "name": "Abyshorn Fish",
@@ -693,15 +693,15 @@
   },
   {
     "name": "Sharp One",
-    "image": "https://tr.rbxcdn.com/180DAY-3862add6dcf806cbed83baa83de95e5c/420/420/Image/Png/noFilter"
+    "image": "https://tr.rbxcdn.com/180DAY-6d4dac2030972134dc12f22926d6d286/420/420/Image/Png/noFilter"
   },
   {
     "name": "Hybodus Shark",
-    "image": "https://tr.rbxcdn.com/180DAY-2359f88446dff833cb251d07372b4597/420/420/Image/Png/noFilter"
+    "image": "https://tr.rbxcdn.com/180DAY-0da37eb40c6f31757eb9a86fe004686c/420/420/Image/Png/noFilter"
   },
   {
     "name": "Panther Eel",
-    "image": "https://tr.rbxcdn.com/180DAY-7909d18f78c0649ac89c3282ee920696/420/420/Image/Png/noFilter"
+    "image": "https://tr.rbxcdn.com/180DAY-021ba48e5493b7c549ec051119f6a2b6/420/420/Image/Png/noFilter"
   },
   {
     "name": "Ghost Shark",
@@ -2168,6 +2168,70 @@
     "image": "https://tr.rbxcdn.com/180DAY-7d8454a70393399ee0a558e450e55675/420/420/Image/Png/noFilter"
   },
   {
+    "name": "Blue Moonfish",
+    "image": "https://tr.rbxcdn.com/180DAY-ed277ce0ba05c91c63fece73b465fea5/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Bluefin Eel",
+    "image": "https://tr.rbxcdn.com/180DAY-54bb506a2277e7b11936bf374a0e791a/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Crimson Piranha",
+    "image": "https://tr.rbxcdn.com/180DAY-31d127e963f617d39cc4f65ebbe4e8cf/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Fish",
+    "image": "https://tr.rbxcdn.com/180DAY-715ad89881ec38a1a4e78cd02a0fea80/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Lobster",
+    "image": "https://tr.rbxcdn.com/180DAY-253c8731b0f1ea0b917cd8f4f92fd424/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Slug",
+    "image": "https://tr.rbxcdn.com/180DAY-19ae1984da7f31e14c6eefa867fe7fbc/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Swordfish",
+    "image": "https://tr.rbxcdn.com/180DAY-5d2953ff80945e74c251e57fd8c20e1e/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Tailfish",
+    "image": "https://tr.rbxcdn.com/180DAY-0139fa63b00543fb5996733e832ad806/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Whale",
+    "image": "https://tr.rbxcdn.com/180DAY-8608fa62a91c0ad9cbd5a2532861a956/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Orange Striped Squid",
+    "image": "https://tr.rbxcdn.com/180DAY-56345c6e7a06c2c15bc236d53ae304ac/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Sea Anemone",
+    "image": "https://tr.rbxcdn.com/180DAY-4e240e77f5ad9e4890570cc569be48fa/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Sand Eel",
+    "image": "https://tr.rbxcdn.com/180DAY-e304011ea575cdc17bb8bb6a9d19b12c/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Seaweed Pufferfish",
+    "image": "https://tr.rbxcdn.com/180DAY-20b17973dc50bb69a0f35c6d11af838d/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Alligator Snapper",
+    "image": "https://tr.rbxcdn.com/180DAY-18ae7607169d7a74db57f86654428860/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Ketupat Sea Turtle",
+    "image": "https://tr.rbxcdn.com/180DAY-a950892d3b01e0eb92013cf5d8fa91a6/420/420/Image/Png/noFilter"
+  },
+  {
+    "name": "Thunderzilla",
+    "image": "https://tr.rbxcdn.com/180DAY-36b95a62962d5bdd9982ea4a05dd5a87/420/420/Image/Png/noFilter"
+  },
+  {
     "name": "Sunset Shrimp",
     "image": "https://tr.rbxcdn.com/180DAY-328793730251adee4d553faad649e058/420/420/Image/Png/noFilter"
   },
@@ -2260,67 +2324,31 @@
     "image": "https://tr.rbxcdn.com/180DAY-b425f27a944d0dc89f3ed663565568e4/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Blue Moonfish",
-    "image": "https://tr.rbxcdn.com/180DAY-ed277ce0ba05c91c63fece73b465fea5/420/420/Image/Png/noFilter"
+    "name": "Crimson Octopus",
+    "image": "https://tr.rbxcdn.com/180DAY-57e98b5013e26982cc6cc754f4ef1a66/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Bluefin Eel",
-    "image": "https://t3.rbxcdn.com/180DAY-a3dd54a897e452a2c6ea835194882df6"
+    "name": "Deepblue Lion Fish",
+    "image": "https://tr.rbxcdn.com/180DAY-466897c3574aeead3c409cc1c406268a/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Crimson Piranha",
-    "image": "https://tr.rbxcdn.com/180DAY-31d127e963f617d39cc4f65ebbe4e8cf/420/420/Image/Png/noFilter"
+    "name": "Sunfang Nautilus",
+    "image": "https://tr.rbxcdn.com/180DAY-26efa62fb612a7e65813ea77da0f9e35/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Ketupat Fish",
-    "image": "https://tr.rbxcdn.com/180DAY-715ad89881ec38a1a4e78cd02a0fea80/420/420/Image/Png/noFilter"
+    "name": "Orange Octopus",
+    "image": "https://tr.rbxcdn.com/180DAY-de568c038168601624e191296bf455c4/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Ketupat Lobster",
-    "image": "https://tr.rbxcdn.com/180DAY-253c8731b0f1ea0b917cd8f4f92fd424/420/420/Image/Png/noFilter"
+    "name": "Seahorse Fish",
+    "image": "https://tr.rbxcdn.com/180DAY-baf9155953d38b764fce5beae2eeaa9c/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Ketupat Slug",
-    "image": "https://tr.rbxcdn.com/180DAY-19ae1984da7f31e14c6eefa867fe7fbc/420/420/Image/Png/noFilter"
+    "name": "Violet Frog",
+    "image": "https://tr.rbxcdn.com/180DAY-8fe4d7bc9e494f2a21ac46a5eae3a79d/420/420/Image/Png/noFilter"
   },
   {
-    "name": "Ketupat Swordfish",
-    "image": "https://tr.rbxcdn.com/180DAY-5d2953ff80945e74c251e57fd8c20e1e/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Ketupat Tailfish",
-    "image": "https://tr.rbxcdn.com/180DAY-0139fa63b00543fb5996733e832ad806/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Ketupat Whale",
-    "image": "https://tr.rbxcdn.com/180DAY-8608fa62a91c0ad9cbd5a2532861a956/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Orange Striped Squid",
-    "image": "https://t3.rbxcdn.com/180DAY-a3dd54a897e452a2c6ea835194882df6"
-  },
-  {
-    "name": "Sea Anemone",
-    "image": "https://tr.rbxcdn.com/180DAY-4e240e77f5ad9e4890570cc569be48fa/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Sand Eel",
-    "image": "https://tr.rbxcdn.com/180DAY-e304011ea575cdc17bb8bb6a9d19b12c/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Seaweed Pufferfish",
-    "image": "https://tr.rbxcdn.com/180DAY-20b17973dc50bb69a0f35c6d11af838d/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Alligator Snapper",
-    "image": "https://tr.rbxcdn.com/180DAY-18ae7607169d7a74db57f86654428860/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Ketupat Sea Turtle",
-    "image": "https://tr.rbxcdn.com/180DAY-a950892d3b01e0eb92013cf5d8fa91a6/420/420/Image/Png/noFilter"
-  },
-  {
-    "name": "Thunderzilla",
-    "image": "https://tr.rbxcdn.com/180DAY-36b95a62962d5bdd9982ea4a05dd5a87/420/420/Image/Png/noFilter"
+    "name": "Bonemaw Tyrant",
+    "image": "https://tr.rbxcdn.com/180DAY-ffb01b47de89664a0908ac51d2f52340/420/420/Image/Png/noFilter"
   }
 ]
